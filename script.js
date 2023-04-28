@@ -1,4 +1,4 @@
-const password = 'calima';
+const password = 'password1';
 
 const submitButton = document.getElementById('submit-button');
 const passwordInput = document.getElementById('password-input');
